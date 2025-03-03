@@ -3,6 +3,7 @@ import Header from './partials/Header';
 import ActivityList from './partials/ActivityList';
 import Footer from './partials/Footer';
 import FloatingAddUserButton from './partials/FloatingAddUserButton';
+document.title = "Actividades";
 
 function App() {
   return (
